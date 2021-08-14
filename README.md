@@ -1,1 +1,1 @@
-# Artificial_Intelligence
+# Artificial Intelligence & Machine Learning Tutorial
